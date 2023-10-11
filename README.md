@@ -15,6 +15,5 @@ In this code we run the Main_Program.py and then with our hand we do the followi
  5) If we show on the camera 5 fingers the program estimates the users pose.
 
 
-Have fun!
 
 Code made in SenseLab.
