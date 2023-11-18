@@ -1,4 +1,4 @@
-# ComputerVision_Python_OpenCV_FingerProgram
+# ComputerVision_Using_OpenCV&MediaPipe_Gestures
 A program where the user shows his/her fingers and decides which option should be activated.
 
 
