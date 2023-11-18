@@ -1,4 +1,4 @@
-# Voice_and_Gestures_Using_OpenCV&MediaPipe
+# Show_Fingers_Get_Detection
 A program where the user shows his/her fingers and decides which option should be activated.
 
 
