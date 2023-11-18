@@ -1,4 +1,4 @@
-# ComputerVision_Using_OpenCV&MediaPipe_Gestures
+# Voice_and_Gestures_Using_OpenCV&MediaPipe
 A program where the user shows his/her fingers and decides which option should be activated.
 
 
