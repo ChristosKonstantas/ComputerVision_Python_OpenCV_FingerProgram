@@ -68,5 +68,4 @@ def counterFunc(stop_count, tipIds, detector,cap):
         if stop_count > 100:
             cv2.waitKey(1)
             stop_count = 0
-            #print("stop")
             return fig
